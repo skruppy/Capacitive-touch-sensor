@@ -3,6 +3,7 @@
 # AVR-GCC Makefile template, derived from the WinAVR template (which
 # is public domain), believed to be neutral to any flavor of "make"
 # (GNU make, BSD make, SysV make)
+# Meaning this file is free to use for personal or commercial purposes.
 
 
 MCU = atmega1280
